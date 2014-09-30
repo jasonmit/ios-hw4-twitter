@@ -1,6 +1,6 @@
 # Homework 4 - Twitter
 
-**Hours taken**: 8
+**Hours taken**: 10
 
 **Completed**:
 - [x] User can sign in using OAuth login flow
@@ -17,4 +17,4 @@
 - [x] Optional: Replies should be prefixed with the username and the reply_id should be set when posting the tweet,
 - [ ] Optional: User can load more tweets once they reach the bottom of the feed using infinite loading similar to the actual Twitter client.
 
-![Demo](http://i.imgur.com/PdAquiU.gif)
+![Demo](http://i.imgur.com/Xy6qtpU.gif)
